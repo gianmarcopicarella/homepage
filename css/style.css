@@ -1,0 +1,82 @@
+body {
+    min-width: 320px;
+}
+
+.nav-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 6.5rem;
+    background: #fff;
+    z-index: 99;
+}
+
+.navbar-list {
+    list-style: none;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+}
+
+.navbar-list-item {
+    margin-bottom: 0;
+    margin-right: 35px;
+    position: relative;
+}
+
+.navbar-list-item:last-of-type {
+    margin-right: 0;
+}
+
+.navbar-link {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .2rem;
+    text-decoration: none;
+    line-height: 6.5rem;
+    color: #222;
+}
+
+.head-name {
+    margin-bottom: 1.5rem;
+    margin-top: 8rem;
+}
+
+.justified-text {
+    text-align: justify;
+}
+
+footer {
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.entry-row {
+    margin-top: 4rem;
+}
+
+.entry-row:first-of-type {
+    margin-top: 0;
+}
+
+.entry-title, .entry-time, .entry-grade, .entry-location, .entry-description {
+    margin:0;
+}
+
+a {
+    text-decoration: none;
+    color: #222;
+}
+
+.projects-list {
+    list-style: none;
+}
