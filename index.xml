@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gianmarco Picarella&#39;s homepage</title>
-    <link>http://example.org/</link>
+    <link>https://gianmarcopicarella.github.io/minimal-website/</link>
     <description>Recent content on Gianmarco Picarella&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gianmarcopicarella.github.io/minimal-website/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
