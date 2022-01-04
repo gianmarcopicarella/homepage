@@ -65,11 +65,15 @@ footer {
     margin-top: 3rem;
 }
 
+.entry-description {
+    margin-top: 1rem;
+}
+
 .entry-row:first-of-type {
     margin-top: 0;
 }
 
-.entry-title, .entry-time, .entry-grade, .entry-location, .entry-description {
+.entry-title, .entry-time, .entry-grade, .entry-location  {
     margin:0;
 }
 
