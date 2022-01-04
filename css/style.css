@@ -49,6 +49,7 @@ body {
 
 .justified-text {
     text-align: justify;
+    margin: 0;
 }
 
 footer {
